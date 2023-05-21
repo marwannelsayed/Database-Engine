@@ -1,0 +1,7 @@
+GutenMorgen,gpa,java.lang.Double,False,null,null,0.7,4.0
+GutenMorgen,name,java.lang.String,False,null,null,a,zzzzzz
+GutenMorgen,id2,java.lang.Integer,False,null,null,1,1000
+GutenMorgen,name3,java.lang.String,False,null,null,a,zzzzzz
+GutenMorgen,name2,java.lang.String,False,null,null,a,zzzzzz
+GutenMorgen,dob,java.util.Date,False,null,null,1990/01/01,2023/05/16
+GutenMorgen,id,java.lang.Integer,True,null,null,1,1000
